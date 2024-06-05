@@ -1,5 +1,5 @@
 # mini-nvim
-Fork of my main nvim config as an ok starting point. Description in README
+Fork of my main nvim config as an ok starting point, with most features removed. See https://github.com/agronskiy/dotfiles/tree/master/_verbose/.config/nvim.symlink for the full one.
 
 Normally, I recommend Astonvim (opinionated -- this is the best preconfigured one out of 
 Lunar, Nvchad etc. -- good balance between features and abstractions).
