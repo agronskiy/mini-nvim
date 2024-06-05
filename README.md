@@ -4,8 +4,8 @@ Fork of my main nvim config as an ok starting point. Description in README
 Normally, I recommend Astonvim (opinionated -- this is the best preconfigured one out of 
 Lunar, Nvchad etc. -- good balance between features and abstractions).
 
-<img width="40%" alt="main" src="https://github.com/agronskiy/mini-nvim/assets/9802715/c7526d73-c363-4cc2-bd5c-2acd1995a429">
-<img width="40%" alt="tele" src="https://github.com/agronskiy/mini-nvim/assets/9802715/032e983e-6562-468d-b237-e7981f2170f6">
+<img width="49%" alt="main" src="https://github.com/agronskiy/mini-nvim/assets/9802715/c7526d73-c363-4cc2-bd5c-2acd1995a429">
+<img width="49%" alt="tele" src="https://github.com/agronskiy/mini-nvim/assets/9802715/032e983e-6562-468d-b237-e7981f2170f6">
 
 ## Install
 
